@@ -1,6 +1,6 @@
 {
   "name": "image-proxy",
-  "repository": "https://github.com/jpmckinney/image-proxy",
+  "repository": "https://github.com/openaustralia/image-proxy/tree/fix-heroku-buildpacks",
   "description": "A simple image proxy optimized for headshots",
   "keywords": ["image", "proxy"],
   "addons": [],
